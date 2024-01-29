@@ -11,4 +11,4 @@ Input:
 Output
    simple interest = p*t*r
 ```
-@2024 Ankit Pandey,INC
+_© 2022 XYZ, Inc._
